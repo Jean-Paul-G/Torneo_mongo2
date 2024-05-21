@@ -1,0 +1,45 @@
+[{
+  "_id": 1,
+  "nombre": "Coach Johnson",
+  "especialidad": "Boxeo",
+  "equipo": "Team Alpha",
+  "peleadores": [
+    "John Doe"
+  ]
+},
+{
+  "_id": 2,
+  "nombre": "Coach Tyson",
+  "especialidad": "Kickboxing",
+  "equipo": "Iron Fist Gym",
+  "peleadores": [
+    "Mike Tyson"
+  ]
+},
+{
+  "_id": 3,
+  "nombre": "Coach Rodriguez",
+  "especialidad": "Jiu-Jitsu",
+  "equipo": "Tiger MMA",
+  "peleadores": [
+    "Tyson Bernard"
+  ]
+},
+{
+  "_id": 4,
+  "nombre": "Coach Wilder",
+  "especialidad": "Muay Thai",
+  "equipo": "Wilder's Warriors",
+  "peleadores": [
+    "Deontay Wilder"
+  ]
+},
+{
+  "_id": 5,
+  "nombre": "Coach Jones",
+  "especialidad": "Wrestling",
+  "equipo": "Jackson-Wink MMA",
+  "peleadores": [
+    "Jon Jones"
+  ]
+}]

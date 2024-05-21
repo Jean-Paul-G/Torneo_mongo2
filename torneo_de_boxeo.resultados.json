@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "ganador": "Mike Tyson",
+  "metodo": "KO",
+  "ronda": 1,
+  "tiempo": "0:52"
+},
+{
+  "_id": 2,
+  "ganador": "Tyson Bernard",
+  "metodo": "Decisión Unánime",
+  "ronda": 5,
+  "tiempo": "25:00"
+},
+{
+  "_id": 3,
+  "ganador": "Deontay Wilder",
+  "metodo": "TKO",
+  "ronda": 2,
+  "tiempo": "3:15"
+},
+{
+  "_id": 4,
+  "ganador": "Jon Jones",
+  "metodo": "Sumisión",
+  "ronda": 4,
+  "tiempo": "4:30"
+},
+{
+  "_id": 5,
+  "ganador": "Tyson Bernard",
+  "metodo": "KO",
+  "ronda": 2,
+  "tiempo": "1:10"
+}]
